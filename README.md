@@ -1,5 +1,3 @@
-# Bản quyền thuộc về [Simplize](https://simplize.vn/)
+# Bản quyền thuộc về ntdat104
 
-## Edit: ntdat104
-
-## Demo: [React-Scroll-Pagination](https://react-scroll-pagination.web.app/)
+## Demo: [React-Scroll-Pagination](https://react-scroll-pagination.firebaseapp.com/)
